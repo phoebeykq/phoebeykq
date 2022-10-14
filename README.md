@@ -1,8 +1,8 @@
 # Countdown Timer 🚀
-[codepen.io/phoebeykq/full/ZEombXK](https://codepen.io/phoebeykq/embed/ZEombXK?default-tab=result)
+<a href="https://codepen.io/phoebeykq/embed/ZEombXK?default-tab=result" target="_blank" rel="noopener ugc nofollow noreferrer">codepen.io/phoebeykq/full/ZEombXK</a>
 
 # iPhone Calculator 🧮
-[codepen.io/phoebeykq/full/vYpqQMO](https://codepen.io/phoebeykq/embed/vYpqQMO?default-tab=result)
+<a href="https://codepen.io/phoebeykq/embed/vYpqQMO?default-tab=result" target="_blank" rel="noopener ugc nofollow noreferrer">codepen.io/phoebeykq/full/vYpqQMO</a>
 
 <!--
 ### Hi there 👋
