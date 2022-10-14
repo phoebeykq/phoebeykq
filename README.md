@@ -1,4 +1,12 @@
+# Countdown Timer 🚀
+[codepen.io/phoebeykq/full/ZEombXK](https://codepen.io/phoebeykq/embed/ZEombXK?default-tab=result)
+
+# iPhone Calculator 🧮
+[codepen.io/phoebeykq/full/vYpqQMO](https://codepen.io/phoebeykq/embed/vYpqQMO?default-tab=result)
+
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **phoebeykq/phoebeykq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
