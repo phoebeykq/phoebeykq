@@ -1,3 +1,6 @@
+# About Me 🌈
+<a href="https://codepen.io/phoebeykq/embed/BaVxMJY?default-tab=result" target="_blank">codepen.io/phoebeykq/full/BaVxMJY</a>
+
 # Countdown Timer 🚀
 <a href="https://codepen.io/phoebeykq/embed/ZEombXK?default-tab=result" target="_blank">codepen.io/phoebeykq/full/ZEombXK</a>
 
